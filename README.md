@@ -1,4 +1,4 @@
-## Getting and Cleaning Data - Course Project <br>
+### Getting and Cleaning Data - Course Project <br>
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:<br>
 
 * Download the dataset if it does not already exist in the working directory<br>
@@ -9,7 +9,7 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 * Converts the activity and subject columns into factors<br>
 * Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.<br><br>
 
-# CONTENT<br>
+# Content<br>
 * README.md, this file, which provides an overview of the data set and how it was created.
 * tidy_data.txt, which contains the data set.
 * CodeBook.md, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
