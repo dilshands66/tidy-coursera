@@ -10,7 +10,7 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 * Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.<br><br>
 
 # Content<br>
-* README.md, this file, which provides an overview of the data set and how it was created.
-* tidy_data.txt, which contains the data set.
-* CodeBook.md, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
-* run_analysis.R, the R script that was used to create the data set (see the Creating the data set section below)
+* `README.md`, which provides how the project was done
+* `tidy_data.txt`, which contains the data set.
+* `CodeBook.md`, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
+* `run_analysis.R`, the R script that was used to create the data set (see the Creating the data set section below)
